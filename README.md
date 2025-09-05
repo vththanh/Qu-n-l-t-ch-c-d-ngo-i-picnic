@@ -1,5 +1,5 @@
 # Tên đề tài: Quản lý tổ chức dã ngoại, picnic
-Môn: Phân tích và thiết kế hệ thống 
+Môn: Phân tích thiết kế hệ thống 
 ## Mô tả dự án:
 - Dự án xác định rõ vai trò các bộ phận, cung cấp dịch vụ dã ngoại/picnic: đặt lịch, quản lý dịch vụ, quản lý kho, thanh toán và xử lý sự cố.
 - Thu thập và chuẩn hóa yêu cầu từ: Khách hàng,bộ phận Kinh doanh, Dịch vụ, Kho, Hậu cần, Kế toán.
